@@ -1,4 +1,4 @@
-#check the first table
+# Check the first table
 
 SELECT * FROM orders_1
 
