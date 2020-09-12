@@ -1,8 +1,8 @@
-#check the customer table
+# Check the customer table
 
 SELECT * FROM customer;
 
-#output
+# Output
 +------------+------------------------------------+-----------------+------------------+------------------+-------------+------------+
 | customerID | customerName                       | contactLastName | contactFirstName | city             | country     | createDate |
 +------------+------------------------------------+-----------------+------------------+------------------+-------------+------------+
