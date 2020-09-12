@@ -1,8 +1,8 @@
-#check the second table
+# Check the second table
 
 SELECT * FROM orders_2;
 
-#output
+# Output
 +-------------+------------+--------------+-------------+-----------+------------+-------------+----------+-----------+
 | orderNumber | orderDate  | requiredDate | shippedDate | status    | customerID | productCode | quantity | priceeach |
 +-------------+------------+--------------+-------------+-----------+------------+-------------+----------+-----------+
